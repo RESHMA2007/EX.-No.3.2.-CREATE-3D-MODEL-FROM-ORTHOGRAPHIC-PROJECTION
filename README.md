@@ -1,5 +1,8 @@
+Developed by:Reshma R
+
+reg no:212224040274
 # EX No.3.2. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
-## DATE:
+
 ## AIM:
 To create a 3D model from given orthographic projection.
 
